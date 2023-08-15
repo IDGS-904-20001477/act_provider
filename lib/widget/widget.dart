@@ -1,0 +1,1 @@
+export 'package:act_provider/widget/pokemons_card_widget.dart';
